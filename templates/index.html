@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Übersicht</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Alle Blogposts</h1>
+    <div class="posts">
+        {% for post in posts %}
+        <div class="post">
+            <h2>{{ post.title }}</h2>
+            <p><strong>Author:</strong> {{ post.author }}</p>
+            <p>{{ post.content }}</p>
+            <p><strong>Likes:</strong> {{ post.likes }}</p>
+            <a href="{{ url_for('like', post_id=post.id) }}" class="like-button">👍 Like</a> |
+            <a href="{{ url_for('update', post_id=post.id) }}">Update</a> |
+            <a href="{{ url_for('delete', post_id=post.id) }}" onclick="return confirm('Wirklich löschen?');">Löschen</a>
+        </div>
+        {% endfor %}
+    </div>
+    <a href="{{ url_for('add') }}">➕ Neuen Post hinzufügen</a>
+</body>
+</html>

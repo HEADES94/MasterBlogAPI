@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Neuer Blogeintrag</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Neuen Blogeintrag hinzufügen</h1>
+    <form method="POST" action="/add">
+        <label for="author">Autor:</label><br>
+        <input type="text" id="author" name="author" required><br><br>
+
+        <label for="title">Titel:</label><br>
+        <input type="text" id="title" name="title" required><br><br>
+
+        <label for="content">Inhalt:</label><br>
+        <textarea id="content" name="content" rows="6" cols="40" required></textarea><br><br>
+
+        <input type="submit" value="Posten">
+    </form>
+    <br>
+    <a href="{{ url_for('index') }}">Zurück zur Startseite</a>
+</body>
+</html>

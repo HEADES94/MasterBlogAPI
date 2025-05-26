@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "author": "J.K. Rowling",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "content": "A young boy discovers he's a wizard and attends a magical school called Hogwarts, where he uncovers the truth about his past and a dark wizard's return.",
+        "likes": 1
+    },
+    {
+        "id": 2,
+        "author": "J.R.R. Tolkien",
+        "title": "The Fellowship of the Ring",
+        "content": "A hobbit named Frodo embarks on a perilous journey to destroy an ancient ring that holds immense power, accompanied by a diverse fellowship.",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "author": "George R.R. Martin",
+        "title": "A Game of Thrones",
+        "content": "Noble families vie for control of the Iron Throne as ancient threats stir in the North and across the sea, where dragons may rise again.",
+        "likes": 0
+    },
+    {
+        "id": 4,
+        "author": "Harper Lee",
+        "title": "To Kill a Mockingbird",
+        "content": "In the racially divided American South, a young girl learns about justice and empathy as her father defends a black man accused of a crime he didn\u2019t commit.",
+        "likes": 0
+    },
+    {
+        "id": 5,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "content": "A mysterious millionaire throws extravagant parties in hopes of rekindling a lost love, revealing the hollowness of the American Dream.",
+        "likes": 0
+    },
+    {
+        "id": 6,
+        "author": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "content": "Elizabeth Bennet navigates issues of manners, marriage, and social status while falling for the proud but honorable Mr. Darcy.",
+        "likes": 0
+    },
+    {
+        "id": 7,
+        "author": "Mary Shelley",
+        "title": "Frankenstein",
+        "content": "A young scientist creates a living being from dead parts, only to abandon his creation and face tragic consequences.",
+        "likes": 0
+    },
+    {
+        "id": 8,
+        "author": "Ray Bradbury",
+        "title": "Fahrenheit 451",
+        "content": "In a future society where books are banned, a fireman tasked with burning them begins to question his role and seeks enlightenment.",
+        "likes": 0
+    },
+    {
+        "id": 9,
+        "author": "Aldous Huxley",
+        "title": "Brave New World",
+        "content": "A dystopian future of engineered humans, consumerism, and a society controlled by pleasure and conditioning.",
+        "likes": 0
+    },
+    {
+        "id": 10,
+        "author": "George Orwell",
+        "title": "1984",
+        "content": "In a totalitarian state ruled by Big Brother, one man dares to defy oppression and seek the truth.",
+        "likes": 0
+    },
+    {
+        "id": 11,
+        "author": "Ernest Hemingway",
+        "title": "The Old Man and the Sea",
+        "content": "An aging fisherman battles a giant marlin far out in the Gulf Stream, testing his strength and spirit.",
+        "likes": 0
+    },
+    {
+        "id": 12,
+        "author": "Leo Tolstoy",
+        "title": "Anna Karenina",
+        "content": "A tale of love, betrayal, and societal expectations set against the backdrop of Imperial Russia.",
+        "likes": 0
+    },
+    {
+        "id": 13,
+        "author": "Markus Zusak",
+        "title": "The Book Thief",
+        "content": "During WWII, a young girl finds solace in stealing books and sharing them, even as Death itself narrates her story.",
+        "likes": 0
+    },
+    {
+        "id": 14,
+        "author": "Mark Twain",
+        "title": "The Adventures of Huckleberry Finn",
+        "content": "A boy and a runaway slave travel down the Mississippi River, discovering the complexities of freedom and morality.",
+        "likes": 0
+    },
+    {
+        "id": 15,
+        "author": "Charlotte Bront\u00eb",
+        "title": "Jane Eyre",
+        "content": "An orphaned girl becomes a governess and falls in love with her mysterious employer, uncovering dark secrets.",
+        "likes": 0
+    },
+    {
+        "id": 16,
+        "author": "Herman Melville",
+        "title": "Moby-Dick",
+        "content": "Captain Ahab obsessively hunts a great white whale, leading to a tale of revenge and madness at sea.",
+        "likes": 0
+    },
+    {
+        "id": 17,
+        "author": "J.D. Salinger",
+        "title": "The Catcher in the Rye",
+        "content": "A disaffected teenager wanders New York City, struggling with alienation and the phoniness of adulthood.",
+        "likes": 0
+    },
+    {
+        "id": 18,
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "title": "One Hundred Years of Solitude",
+        "content": "The rise and fall of the Buend\u00eda family in the magical town of Macondo reflects the history of Latin America.",
+        "likes": 0
+    },
+    {
+        "id": 19,
+        "author": "Paulo Coelho",
+        "title": "The Alchemist",
+        "content": "A young shepherd sets out on a journey to discover his personal legend and the meaning of life.",
+        "likes": 0
+    },
+    {
+        "id": 20,
+        "author": "Douglas Adams",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "content": "After Earth is destroyed, Arthur Dent journeys through space with odd companions and absurd adventures.",
+        "likes": 0
+    }
+]
